@@ -14,7 +14,7 @@ App for business to be more organized. Using this app the business will be able 
 
 ## Installation
 
-To install this app you will need to clone the repository from github (link bellow). 
+To install this app you will need to clone the repository from github (link bellow). Once you clone the app make sure to run on the terminal "npm install" as well as "npm install --save mysql2".
 
 https://github.com/renansm93/Employee-Tracker
 
