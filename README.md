@@ -26,23 +26,23 @@ To run the program, run the code according to the video bellow:
 https://drive.google.com/file/d/1wlm_BKs33GPhZiOvj4UWrKWLC5b9zZNV/view?usp=drive_link
 
 
-- Step 1: Change the password according to your Mysql password on the files budget, department, employee and role. Open the MySQL CLI by typing mysql -u root -p (check you have MYSQL dowloaded on your machine)
+- Step 1: Change the password according to your Mysql password on the files budget, department, employee and role. Open the MySQL CLI by typing mysql -u root -p (check you have MYSQL dowloaded on your machine).
 
 * ![Step_1](images/Step_1.png)
 
-- Step 2: In the MySQL CLI, type 'source db/schema.sql'
+- Step 2: In the MySQL CLI, type 'source db/schema.sql'.
 
 * ![Step_2](images/Step_2.png)
 
-- Step 3: In the MySQL CLI, type 'source db/seed.sql'
+- Step 3: In the MySQL CLI, type 'source db/seed.sql'.
 
 * ![Step_3](images/Step_3.png)
 
-- Step 4: In the MySQL CLI, type quit to leave the MySQL
+- Step 4: In the MySQL CLI, type quit to leave the MySQL.
 
 * ![Step_4](images/Step_4.png)
 
-- Step 5: Run 'node server.js' in the terminal 
+- Step 5: Run 'node server.js' in the terminal.
 
 * ![Step-5](images/Step_5.png)
 
