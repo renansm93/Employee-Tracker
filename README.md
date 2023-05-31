@@ -21,10 +21,10 @@ https://github.com/renansm93/Employee-Tracker
 
 ## Usage
 
-To run the program, run the code according to the video bellow.
+To run the program, run the code according to the video bellow:
 
+https://drive.google.com/file/d/1wlm_BKs33GPhZiOvj4UWrKWLC5b9zZNV/view?usp=drive_link
 
-https://drive.google.com/file/d/1CMv41M0u0HYYKVd7cAlodZh74NrRZ7cJ/view?usp=share_link
 
 - Step 1: Open the MySQL CLI by typing mysql -u root -p (check you have MYSQL dowloaded on your machine)
 
