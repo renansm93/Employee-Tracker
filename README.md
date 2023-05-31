@@ -14,7 +14,7 @@ App for business to be more organized. Using this app the business will be able 
 
 ## Installation
 
-To install this app you will need to clone the repository from github (link bellow). Once you clone the app make sure to run on the terminal "npm install" as well as "npm install --save mysql2".
+To install this app you will need to clone the repository from github (link bellow). Once you clone the app make sure to run on the terminal "npm install" as well as "npm install --save mysql2". 
 
 https://github.com/renansm93/Employee-Tracker
 
@@ -26,7 +26,7 @@ To run the program, run the code according to the video bellow:
 https://drive.google.com/file/d/1wlm_BKs33GPhZiOvj4UWrKWLC5b9zZNV/view?usp=drive_link
 
 
-- Step 1: Open the MySQL CLI by typing mysql -u root -p (check you have MYSQL dowloaded on your machine)
+- Step 1: Change the password according to your Mysql password on the files budget, department, employee and role. Open the MySQL CLI by typing mysql -u root -p (check you have MYSQL dowloaded on your machine)
 
 * ![Step_1](images/Step_1.png)
 
@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1wlm_BKs33GPhZiOvj4UWrKWLC5b9zZNV/view?usp=drive
 
 * ![Step-5](images/Step_5.png)
 
-- Step 6: Now you are ready to use the app. Use any of the prompsts provided (View Employee, View Roles, Add employee, etc) 
+- Step 6: Now you are ready to use the app. Use any of the prompts provided (View Employee, View Roles, Add employee, etc) 
 
 
 
